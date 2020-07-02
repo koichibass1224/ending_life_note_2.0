@@ -96,10 +96,10 @@ if($status==false) {
     <div class="container" style="margin-top:50px;">
     <h>
     あなたが向き合う<textarea name="ad0_1"cols="10" rows="1"style="height:30px;">
-        <?=$ad1_1?></textarea>について教えてください！
+        <?=$ad0_1?></textarea>について教えてください！
     </h></br></br>
     <p>
-      <textarea name="ad0_2"cols="80" rows="2" placeholder="テーマを書く"><?=$ad1_2?></textarea>
+      <textarea name="ad0_2"cols="80" rows="2" placeholder="テーマを書く"><?=$ad0_2?></textarea>
     </p>
 
     </p>
